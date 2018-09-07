@@ -2,15 +2,19 @@
 @import "http://fonts.fontstorage.com/import/lora.css";
 @import "http://fonts.fontstorage.com/import/sourcesanspro.css";
 
+ body{ 
+padding: 0px; 
+margin: 0px; 
+}
 .row {
 background: #E5E5E5;
 }
 
 .rectangle {
 position: absolute;
-width: 1440px;
+width: 500Fpx;
 height: 730px;
-left: 0px;F
+left: -100px;
 top: 0px;
 
 background: #FFFFFF;
@@ -195,7 +199,7 @@ color: #212121;
 position: absolute;
 width: 1240px;
 height: 0px;
-left: 10px;
+left: 110px;
 top: 729px;
 
 border: 1px solid #DFDFDF;
